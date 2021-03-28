@@ -122,3 +122,8 @@ How can we improve our development workflow?
   - F401: modules imported but unused
   See: https://flake8.pycqa.org/en/latest/user/error-codes.html
 - Configure [GitHub issues templates](https://docs.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository)
+
+## #9. guía de supervivencia con docker
+On **2021-03-26** by [Pedro](https://gitlab.com/pedrolab/)
+
+presentation done with hedgedoc [uploaded here](https://demo.hedgedoc.org/47AcQ2gDQZiY8h9NiKoDgw#), and the presentation under version control is at [./kaizen-meetings/9-guia-supervivencia-docker.md)](./kaizen-meetings/9-guia-supervivencia-docker.md)
